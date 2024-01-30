@@ -1,2 +1,1 @@
-# timer-stopwatch
-Digital Clock which contains Stopwatch as well as Timer
+# Digital-Clock-with-timer-and-stopwatch
